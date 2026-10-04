@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270777374356",
+    "project_id": "urban-koala",
+    "storage_bucket": "urban-koala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270777374356:android:0f7e96414a9e612c368681",
+        "android_client_info": {
+          "package_name": "app.urbankoala.urbankoala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5M0mcu22kGHV1ofudYRxzec7RrZ0h-Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
